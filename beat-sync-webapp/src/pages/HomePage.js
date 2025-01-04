@@ -3,7 +3,7 @@ import FileUpload from "../components/FileUpload";
 import ImagePreview from "../components/ImagePreview";
 import GenerateButton from "../components/GenerateButton";
 import DownloadLink from "../components/DownloadLink";
-import "/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/beat-sync-webapp/src/styles/app.css";
+import "../styles/app.css";
 
 const HomePage = () => {
   const [audio, setAudio] = useState(null);
