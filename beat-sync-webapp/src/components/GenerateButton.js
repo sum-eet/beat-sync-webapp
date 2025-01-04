@@ -15,7 +15,7 @@ const GenerateButton = ({ audio, images, onComplete }) => {
 
       // Start the video generation request
       const videoRequest = axios.post(
-        "https://beat-sync-webapp-backend.onrender.com/upload",
+        "http://127.0.0.1:8000/upload",
         formData,
         {
           responseType: "blob", // Expect a video file as a blob
