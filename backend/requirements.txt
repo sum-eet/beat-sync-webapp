@@ -4,4 +4,4 @@ librosa
 numpy
 pydantic
 python-multipart
-pillow
+pillow>=9.0.0

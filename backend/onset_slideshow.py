@@ -15,7 +15,9 @@ def preprocess_images(images_folder):
             img_path = os.path.join(images_folder, img_file)
             with Image.open(img_path) as img:
                 # Resize image while maintaining aspect ratio
-                img.thumbnail((max_resolution, max_resolution), Image.ANTIALIAS)
+                img.thumbnail(
+                    (max_resolution, max_resolution), Image.Resampling.LANCZOS
+                )
                 width, height = img.size
 
                 # Ensure dimensions are divisible by 2
