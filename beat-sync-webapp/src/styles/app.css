@@ -1,0 +1,155 @@
+/* Global styles */
+/* Global styles */
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #f0f8ff; /* Light blue background */
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: 2px solid #007bff; /* Blue border */
+}
+
+/* Section Titles */
+.section-title {
+  font-size: 22px;
+  font-weight: bold;
+  color: #007bff; /* Blue color */
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+/* Buttons */
+button {
+  padding: 12px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #007bff; /* Blue */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue */
+}
+
+/* File Upload Input */
+.file-upload {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.file-upload input {
+  display: block;
+  margin: 10px auto;
+}
+
+/* Progress Bar */
+.progress-bar-container {
+  width: 100%;
+  background-color: #e0e0e0;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 20px 0;
+}
+
+.progress-bar {
+  height: 20px;
+  width: 0%;
+  background-color: #007bff; /* Blue */
+  transition: width 0.3s;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+
+  .section-title {
+    font-size: 18px;
+  }
+
+  button {
+    font-size: 14px;
+    padding: 10px 16px;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Titles */
+.section-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+/* Buttons */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* File upload inputs */
+.file-upload {
+  margin-bottom: 20px;
+}
+
+.file-upload input {
+  display: block;
+  margin-top: 10px;
+}
+
+/* Video preview */
+.video-preview {
+  margin-top: 20px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
+  }
+
+  .section-title {
+    font-size: 18px;
+  }
+
+  button {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+}
