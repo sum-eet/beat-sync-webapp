@@ -1,237 +1,91 @@
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-20 at 10.57.51 PM.png'
 duration 0.034829931972789115
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.42 AM.png'
 duration 0.1160997732426304
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.046439909297052134
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.04643990929705216
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.1857596371882086
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.48 AM.png'
+duration 0.11609977324263035
 file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.06965986394557827
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.04643990929705211
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.05804988662131527
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.04643990929705211
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.18575963718820865
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.11609977324263032
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.04643990929705222
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.04643990929705222
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.18575963718820843
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.11609977324263054
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.05804988662131505
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.04643990929705222
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.18575963718820865
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.8010884353741499
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.1973696145124717
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.4063492063492067
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.1973696145124717
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.20897959183673498
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.1973696145124717
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.19736961451247215
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.4063492063492058
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.20897959183673454
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.3947392290249434
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.19736961451247215
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247215
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.3947392290249434
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.20897959183673454
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.20897959183673454
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247215
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247215
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.3947392290249425
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.801088435374151
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247304
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.18575963718820887
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.20897959183673542
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.20897959183673542
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.3947392290249425
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.20897959183673542
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.5921088435374156
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.20897959183673542
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.18575963718820887
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.20897959183673542
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247304
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.3947392290249425
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
+duration 0.10448979591836738
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'
+duration 0.11609977324263038
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-20 at 10.57.51 PM.png'
+duration 0.2205895691609977
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.42 AM.png'
 duration 0.2205895691609978
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.3947392290249443
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.48 AM.png'
+duration 0.45278911564625857
 file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.3947392290249443
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.19736961451247126
+duration 0.23219954648526064
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'
+duration 0.2205895691609978
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-20 at 10.57.51 PM.png'
+duration 0.23219954648526087
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.42 AM.png'
+duration 0.10448979591836727
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.48 AM.png'
+duration 0.10448979591836727
 file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
+duration 0.25541950113378675
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'
+duration 0.1973696145124717
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-20 at 10.57.51 PM.png'
+duration 0.2205895691609978
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.42 AM.png'
+duration 0.2205895691609978
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.48 AM.png'
+duration 0.2670294784580496
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
+duration 0.1741496598639456
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'
+duration 0.26702947845805003
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-20 at 10.57.51 PM.png'
+duration 0.08126984126984116
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.42 AM.png'
+duration 0.10448979591836727
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.48 AM.png'
+duration 0.26702947845805003
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
 duration 0.18575963718820887
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.2089795918367372
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.3947392290249425
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.5921088435374173
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.3947392290249425
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.2089795918367372
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.18575963718820887
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.39473922902494607
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.5921088435374138
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'
+duration 0.2205895691609978
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-20 at 10.57.51 PM.png'
+duration 0.2321995464852602
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.42 AM.png'
+duration 0.24380952380952436
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.48 AM.png'
 duration 0.19736961451247126
 file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.1973696145124748
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.19736961451247126
+duration 0.2321995464852611
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'
+duration 0.10448979591836682
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-20 at 10.57.51 PM.png'
+duration 0.10448979591836771
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.42 AM.png'
+duration 0.24380952380952348
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.48 AM.png'
+duration 0.20897959183673542
 file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.1973696145124748
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.3947392290249425
+duration 0.2321995464852602
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'
+duration 0.2205895691609978
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-20 at 10.57.51 PM.png'
+duration 0.25541950113378675
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.42 AM.png'
+duration 0.19736961451247215
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.48 AM.png'
+duration 0.2205895691609978
 file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.6153287981859421
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.19736961451247126
+duration 0.1160997732426301
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'
+duration 0.10448979591836682
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-20 at 10.57.51 PM.png'
+duration 0.11609977324263099
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.42 AM.png'
+duration 0.1160997732426301
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-22 at 12.44.48 AM.png'
+duration 0.10448979591836771
 file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 0.18575963718820887
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.26 PM.png'
-duration 0.2089795918367372
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2024-12-27 at 10.44.48 AM.png'
-duration 0.19736961451247126
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.19 PM.png'
-duration 0.20897959183673365
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.24 PM.png'
-duration 3.7993650793650815
-file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/Screenshot 2025-01-01 at 5.49.28 PM.png'
+duration 0.11609977324263099
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'
+duration 3.572970521541949
+file '/Users/sumeetkarwa/Documents/Code/beat-sync-webapp/backend/media/uploads/images/product_image.jpg'

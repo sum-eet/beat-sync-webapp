@@ -7,21 +7,22 @@ from PIL import Image
 
 def preprocess_images(images_folder):
     """
-    Ensure all images have dimensions divisible by 2.
+    Resize images to a smaller resolution and ensure dimensions are divisible by 2.
     """
+    max_resolution = 800  # Max width/height for images
     for img_file in os.listdir(images_folder):
         if img_file.endswith((".png", ".jpg", ".jpeg")):
             img_path = os.path.join(images_folder, img_file)
             with Image.open(img_path) as img:
+                # Resize image while maintaining aspect ratio
+                img.thumbnail((max_resolution, max_resolution), Image.ANTIALIAS)
                 width, height = img.size
+
+                # Ensure dimensions are divisible by 2
                 new_width = width if width % 2 == 0 else width - 1
                 new_height = height if height % 2 == 0 else height - 1
-                if (width, height) != (new_width, new_height):
-                    print(
-                        f"Resizing {img_path} from ({width}x{height}) to ({new_width}x{new_height})"
-                    )
-                    img = img.resize((new_width, new_height))
-                    img.save(img_path)
+                img = img.resize((new_width, new_height))
+                img.save(img_path)
 
 
 def detect_onsets(audio_file):
@@ -64,7 +65,7 @@ def create_image_sequence_from_onsets(images_folder, onsets, audio_length, outpu
     return ffmpeg_input
 
 
-def create_video_from_images(ffmpeg_input, audio_file, output_file):
+def create_video_without_audio(ffmpeg_input, output_video_path):
     ffmpeg_cmd = [
         "ffmpeg",
         "-y",
@@ -74,18 +75,27 @@ def create_video_from_images(ffmpeg_input, audio_file, output_file):
         "0",
         "-i",
         ffmpeg_input,
-        "-i",
-        audio_file,
         "-vf",
-        "scale=trunc(iw/2)*2:trunc(ih/2)*2",  # Ensure width and height are divisible by 2
-        "-map",
-        "0:v",
-        "-map",
-        "1:a",
+        "scale=trunc(iw/2)*2:trunc(ih/2)*2",
         "-c:v",
         "libx264",
         "-pix_fmt",
         "yuv420p",
+        output_video_path,
+    ]
+    subprocess.run(ffmpeg_cmd, check=True)
+
+
+def add_audio_to_video(video_path, audio_file, output_file):
+    ffmpeg_cmd = [
+        "ffmpeg",
+        "-y",
+        "-i",
+        video_path,
+        "-i",
+        audio_file,
+        "-c:v",
+        "copy",
         "-c:a",
         "aac",
         "-strict",
@@ -93,7 +103,6 @@ def create_video_from_images(ffmpeg_input, audio_file, output_file):
         "-shortest",
         output_file,
     ]
-
     subprocess.run(ffmpeg_cmd, check=True)
 
 
@@ -107,5 +116,10 @@ def create_onset_based_slideshow(audio_file, images_folder, output_path):
     ffmpeg_input = create_image_sequence_from_onsets(
         images_folder, onsets, audio_length, output_dir
     )
-    create_video_from_images(ffmpeg_input, audio_file, output_path)
+    video_no_audio = "media/generated_videos/video_no_audio.mp4"
+    final_video = "media/generated_videos/generated_slideshow.mp4"
+
+    create_video_without_audio(ffmpeg_input, video_no_audio)
+    add_audio_to_video(video_no_audio, audio_file, output_path)
+
     return output_path
