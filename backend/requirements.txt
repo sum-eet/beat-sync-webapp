@@ -4,3 +4,5 @@ librosa
 numpy
 pydantic
 python-multipart
+PIL
+pillow
